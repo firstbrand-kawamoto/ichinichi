@@ -6,7 +6,7 @@ A minimalist daily notes application designed to help you build and maintain a c
 
 ## Why Ichinichi?
 
-いちにち (_ichi nichi_) means _one day_ in Japanese.
+いちにち (_ichi nichi_) means &#8220;a day&#8221; (or &#8220;every single day&#8221;) in Japanese.
 
 ### 📝 **Minimalist Design for Consistency**
 
@@ -62,7 +62,7 @@ Visit the live demo: [Demo](https://ichinichi.app)
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ichinichi.git
+git clone https://github.com/katspaugh/ichinichi.git
 cd ichinichi
 ```
 
